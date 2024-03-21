@@ -130,3 +130,5 @@ dmypy.json
 
 # Other
 yelp_data/
+processed_data/
+*.pkl
